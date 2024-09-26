@@ -1,0 +1,23 @@
+ul,
+ol {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.list {
+    margin-top: 50px;
+    width: auto;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+    justify-content: center;
+    align-items: center;
+}
+
+.item {
+    border-radius: 4px;
+    border: 1px solid black;
+}

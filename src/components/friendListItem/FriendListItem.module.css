@@ -1,0 +1,18 @@
+.friendList {
+    padding: 10px;
+}
+
+.name {
+    text-align: center;
+    size: 26px;
+    font-weight: 700;
+    color: black;
+}
+
+.online {
+    color: rgb(44, 226, 62);
+}
+
+.offline {
+    color: crimson;
+}
